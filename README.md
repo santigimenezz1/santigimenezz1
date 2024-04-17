@@ -10,8 +10,10 @@
 
 ## Sobre mi
 
- 👨🏻‍💻 un apasionado desarrollador frontend con un enfoque centrado en la creación de experiencias web cautivadoras y funcionales. Mi objetivo es colaborar en equipos dinámicos donde pueda aplicar mi creatividad y habilidades técnicas para impulsar proyectos hacia el éxito. ¡Emocionado por nuevas oportunidades y conexiones en el mundo del desarrollo frontend!
-<br>
+<h2 👨🏻‍💻 un apasionado desarrollador frontend con un enfoque centrado en la creación de experiencias web cautivadoras y funcionales. Mi objetivo es colaborar en equipos dinámicos donde pueda aplicar mi creatividad y habilidades técnicas para impulsar proyectos hacia el éxito. ¡Emocionado por nuevas oportunidades y conexiones en el mundo del desarrollo frontend!
+ 
+ </h2>
+ <br>
 
 ## Proyectos *bombitas*
 <table>
