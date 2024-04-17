@@ -10,12 +10,7 @@
 
 ## Sobre mi
 
-- ⭐ Github Star ⭐ 
-- 📲 Mobile developer
-- 🎥 Te enseño a programar apps en [Youtube](https://youtube.com/aristidevs?sub_confirmation=1) (+45k subs)
-- ✏️ Y por escrito en [CursoKotlin](https://cursokotlin.com)
-- 📗 Autor del libro [Iniciación a Android en Kotlin. Casos prácticos](https://www.paraninfo.es/catalogo/9788428340922/iniciacion-a-android-en-kotlin--casos-practicos)
-- 🧑‍🏫 Creador de [AppCademy](https://appcademy.dev)
+ 👨🏻‍💻 un apasionado desarrollador frontend con un enfoque centrado en la creación de experiencias web cautivadoras y funcionales. Mi objetivo es colaborar en equipos dinámicos donde pueda aplicar mi creatividad y habilidades técnicas para impulsar proyectos hacia el éxito. ¡Emocionado por nuevas oportunidades y conexiones en el mundo del desarrollo frontend!
 <br>
 
 ## Proyectos *bombitas*
