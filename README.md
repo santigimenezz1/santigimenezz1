@@ -88,6 +88,43 @@
 </div>
                                                                                       
 </td>  
+</table>                
+
+<table>
+<tr>
+<td width="50%">
+<h3 align="center">WEATHER WISE</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1710075238/portafolio/Imagen_10-3-24_a_las_13.52_l7be3p.jpg" width="400" alt="Curso intermedio Android"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
+<img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
+</a>
+</p>
+<p>Proyecto que consume la api de Open Weather map, donde podemos buscar cualquier cuidad del mundo, agregarlas a una seccion de favoritos y obtener los datos climaticos del día y sus 5 dias posteriores.</p>
+</div>
+                                                                                      
+</td>       
+
+<td width="50%">
+<h3 align="center">PIXELS STUDIO</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1710072446/portafolio/Imagen_10-3-24_a_las_13.01_thwuuf.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<p>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
+</a>
+</p>
+<p>Descubre una aplicación donde puedes realizar búsquedas de imágenes y videos, con acceso a una amplia variedad de recursos. Explora y descarga tus imágenes favoritas con facilidad</p>
+</div>
+                                                                                      
+</td>  
 </table>                                                                                 
 </div>
 <br>
