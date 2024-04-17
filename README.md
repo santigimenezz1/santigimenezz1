@@ -110,9 +110,9 @@
 </td>       
 
 <td width="50%">
-<h3 align="center">PIXELS STUDIO</h3>
+<h3 align="center">TIENDA GAMING</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1710072446/portafolio/Imagen_10-3-24_a_las_13.01_thwuuf.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1710369290/Imagen_13-3-24_a_las_23.34_iaw2n6.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
@@ -121,7 +121,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Descubre una aplicación donde puedes realizar búsquedas de imágenes y videos, con acceso a una amplia variedad de recursos. Explora y descarga tus imágenes favoritas con facilidad</p>
+<p>Tienda de productos gaming, los usuarios van a poder registarse, seleccionar los productos que quieran obtener y finalizar su compra.</p>
 </div>
                                                                                       
 </td>  
