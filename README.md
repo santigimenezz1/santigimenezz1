@@ -10,14 +10,14 @@
 
 ## Sobre mi
 
-<h3 align="start">un apasionado desarrollador frontend con un enfoque centrado en la creación de experiencias web cautivadoras y funcionales. Mi objetivo es colaborar en equipos dinámicos donde pueda aplicar mi creatividad y habilidades técnicas para impulsar proyectos hacia el éxito. ¡Emocionado por nuevas oportunidades y conexiones en el mundo del desarrollo frontend!</h3>
+<h3 align="start">👨🏻‍💻 Un apasionado desarrollador frontend con un enfoque centrado en la creación de experiencias web cautivadoras y funcionales. Mi objetivo es colaborar en equipos dinámicos donde pueda aplicar mi creatividad y habilidades técnicas para impulsar proyectos hacia el éxito. ¡Emocionado por nuevas oportunidades y conexiones en el mundo del desarrollo frontend!</h3>
  <br>
 
-## Proyectos *bombitas*
+## Proyectos
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Básico</h3>
+<h3 align="center">Cascanueces saludable</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1710074924/portafolio/Captura_de_pantalla_2024-03-10_a_las_13.24.18_sl3awg.jpg" width="400" alt="Cascanueces Saludable"></a>
 <p>
