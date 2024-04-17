@@ -24,9 +24,6 @@
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
 </p>
 <p>Plataforma de comercio electrónico en React, con Firebase para autenticación y almacenamiento. Usuarios pueden explorar, agregar a carrito y favoritos. Acceso a panel para gestión de inventario y pedidos, con historial visible. Adaptable a PC, tablet y móvil.</p>
 </div>
