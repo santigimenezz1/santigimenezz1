@@ -1,5 +1,5 @@
 <div align="center">
-<h1 align="center">Hola, soy <a href="[https://aristi.dev](https://portfolio-santiago-gimenez.vercel.app)">Santiago Gimenez</a> 👋</h1>
+<h1 align="center">Hola, soy <a href="https://portfolio-santiago-gimenez.vercel.app">Santiago Gimenez</a> 👋</h1>
 </div>
 <img src="https://i.imgur.com/weNbhGZ.png">
 
