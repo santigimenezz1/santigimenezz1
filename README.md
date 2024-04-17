@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1713352135/WhatsApp_Image_2024-03-23_at_22.41.37_ndyhv9.jpg" alt="Descripción de la imagen">
+</p>
 <h1 align="center">Hola 👋, Me llamo Santiago Gimenez 👨🏻‍💻</h1>
 <h3 align="center">Soy un frontend apasionado</h3>
 
