@@ -51,7 +51,7 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">Curso Android Intermedio</h3>
+<h3 align="center">WEATHER WISE</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://i.imgur.com/V48W0sU.jpg" width="400" alt="Curso intermedio Android"></a>
 <p>
@@ -62,13 +62,13 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>Android con Kotlin nivel intermedio</strong> - En este curso nos centraremos en las <strong>buenas prácticas, arquitectura y testing</strong>. Curso <strong>GRATUITO de 8 horas</strong> con todo el código disponible para descargar.</p>
+<p>Proyecto que consume la api de Open Weather map, donde podemos buscar cualquier cuidad del mundo, agregarlas a una seccion de favoritos y obtener los datos climaticos del día y sus 5 dias posteriores.</p>
 </div>
                                                                                       
 </td>       
 
 <td width="50%">
-<h3 align="center">Curso Kotlin Multiplatform</h3>
+<h3 align="center">PIXELS STUDIO</h3>
 <div align="center">
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://i.imgur.com/nDDp1Ra.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
@@ -79,7 +79,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
-<p>Aprende a programar aplicaciones <strong>multiplataform con Kotlin y Jetpack Compose</strong> - En este curso nos centraremos en dominar Kotlin Multiplatform <strong>desde cero</strong>. Curso <strong>GRATUITO</strong> (en desarrollo) con todo el código disponible para descargar.</p>
+<p>Descubre una aplicación donde puedes realizar búsquedas de imágenes y videos, con acceso a una amplia variedad de recursos. Explora y descarga tus imágenes favoritas con facilidad</p>
 </div>
                                                                                       
 </td>  
