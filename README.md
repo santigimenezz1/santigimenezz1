@@ -3,11 +3,6 @@
 </div>
 <img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1713355130/portafolio/frontend_developer_jyqyvp.png">
 
-[![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
-[![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
-[![GitHub followers](https://img.shields.io/github/followers/arisguimera?style=social)](https://github.com/ArisGuimera)
-![Discord Shield](https://discordapp.com/api/guilds/807719549075980308/widget.png?style=shield)
-
 ## Sobre mi
 
 <h3 align="start">👨🏻‍💻 Un apasionado desarrollador frontend con un enfoque centrado en la creación de experiencias web cautivadoras y funcionales. Mi objetivo es colaborar en equipos dinámicos donde pueda aplicar mi creatividad y habilidades técnicas para impulsar proyectos hacia el éxito. ¡Emocionado por nuevas oportunidades y conexiones en el mundo del desarrollo frontend!</h3>
@@ -19,7 +14,7 @@
 <td width="50%">
 <h3 align="center">CASCANUECES SALUDABLE</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1710074924/portafolio/Captura_de_pantalla_2024-03-10_a_las_13.24.18_sl3awg.jpg" width="400" alt="Cascanueces Saludable"></a>
+<a href="https://github.com/santigimenezz1/Cascanueces-Saludable" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1710074924/portafolio/Captura_de_pantalla_2024-03-10_a_las_13.24.18_sl3awg.jpg" width="400" alt="Cascanueces Saludable"></a>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
@@ -40,9 +35,6 @@
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
-</a>
 </p>
 </p>Aplicación web que utiliza la API de The Movie Database (TMDB). La interfaz ofrece búsquedas instantáneas, detalles completos de películas, información de reparto y, para series, una vista de temporadas y episodios. Desarrollado con Next.js,  para una experiencia de usuario ágil..</p>
 </div>                                                             
@@ -60,9 +52,6 @@
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
 <p>Proyecto para mi cliente Cascanueces saludable, donde puede manejar su stock. Teniendo la posibilidad de editar sus productos, agregar nuevos o eliminarlos.</p>
 </div>
@@ -76,9 +65,6 @@
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
 <p>Descubre una aplicación donde puedes realizar búsquedas de imágenes y videos, con acceso a una amplia variedad de recursos. Explora y descarga tus imágenes favoritas con facilidad</p>
@@ -97,9 +83,6 @@
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
 </a>
-<a href="https://youtu.be/UaR7GSNACsM" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
-</a>
 </p>
 <p>Proyecto que consume la api de Open Weather map, donde podemos buscar cualquier cuidad del mundo, agregarlas a una seccion de favoritos y obtener los datos climaticos del día y sus 5 dias posteriores.</p>
 </div>
@@ -113,9 +96,6 @@
 <p>
 <a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
-</a>
-<a href="https://youtube.com/playlist?list=PL8ie04dqq7_NUvBcMMosVRAbqZDWmRzX3&si=FdS-Z07ZFAUjDHAE" target="_blank">
-<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=ff00f4">
 </a>
 </p>
 <p>Tienda de productos gaming, los usuarios van a poder registarse, seleccionar los productos que quieran obtener y finalizar su compra.</p>
