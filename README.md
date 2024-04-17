@@ -23,7 +23,7 @@
 <p>
 
 </p>
-<p>Comercio electrónico desarrollado en React. Los usuarios pueden explorar y agregar productos a su carrito, y marcar favoritos. El backend utiliza Firebase para la autenticación y almacenamiento de datos de productos y pedidos. Los clientes acceden a un panel para gestionar su inventario, agregar, editar o eliminar productos. También pueden ver su historial de pedidos. La plataforma es adaptable a PC, tablet y mobile.</p>
+<p>Plataforma de comercio electrónico en React, con Firebase para autenticación y almacenamiento. Usuarios pueden explorar, agregar a carrito y favoritos. Acceso a panel para gestión de inventario y pedidos, con historial visible. Adaptable a PC, tablet y móvil.</p>
 </div>
                                                                                       
 </td>
