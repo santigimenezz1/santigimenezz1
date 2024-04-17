@@ -56,9 +56,9 @@
 <table>
 <tr>
 <td width="50%">
-<h3 align="center">WEATHER WISE</h3>
+<h3 align="center">DASHBOARD CASCANUECES</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1710075238/portafolio/Imagen_10-3-24_a_las_13.52_l7be3p.jpg" width="400" alt="Curso intermedio Android"></a>
+<a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1711025187/portafolio/Imagen_21-3-24_a_las_13.44_nxcamy.jpg" width="400" alt="Curso intermedio Android"></a>
 <p>
 <a href="https://github.com/ArisGuimera/Android-Expert-Intermedio" target="_blank">
 <img src="https://img.shields.io/badge/CÓDIGO-ff9?style=for-the-badge&logo=github&logoColor=black">
@@ -67,7 +67,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=fbfc40">
 </a>
 </p>
-<p>Proyecto que consume la api de Open Weather map, donde podemos buscar cualquier cuidad del mundo, agregarlas a una seccion de favoritos y obtener los datos climaticos del día y sus 5 dias posteriores.</p>
+<p>Proyecto para mi cliente Cascanueces saludable, donde puede manejar su stock. Teniendo la posibilidad de editar sus productos, agregar nuevos o eliminarlos.</p>
 </div>
                                                                                       
 </td>       
