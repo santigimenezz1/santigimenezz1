@@ -34,6 +34,23 @@
 </td>
 
 <td width="50%">
+<h3 align="center">DASHBOARD CASCANUECES SALUDABLE</h3>
+<div align="center">
+<a href="https://github.com/ArisGuimera/Android-Expert" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1711025187/portafolio/Imagen_21-3-24_a_las_13.44_nxcamy.jpg" width="400" alt="Dashboard Cascanueces Saludable"></a>
+<p>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
+<img src="https://img.shields.io/badge/C%C3%93DIGO-80ffaa?style=for-the-badge&logo=github&logoColor=black">
+</a>
+<a href="https://youtu.be/hhhSMXi0R3E" target="_blank">
+<img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
+</a>
+</p>
+<p>Proyecto para mi cliente Cascanueces saludable, donde puede manejar su stock. Teniendo la posibilidad de editar sus productos, agregar nuevos o eliminarlos.</p>
+</div>
+                                                                                      
+</td>
+
+<td width="50%">
                <br>
 <h3 align="center">TMDB FILMS </h3>
 <div align="center">                                       
