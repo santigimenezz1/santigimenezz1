@@ -29,7 +29,7 @@
                <br>
 <h3 align="center">TMDB FILMS </h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1710075299/portafolio/Captura_de_pantalla_2024-03-10_a_las_13.28.26_m2aae2.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/santigimenezz1/movie-next" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1710075299/portafolio/Captura_de_pantalla_2024-03-10_a_las_13.28.26_m2aae2.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/santigimenezz1/stock-de-fotos" target="_blank">
@@ -61,7 +61,7 @@
 <td width="50%">
 <h3 align="center">PIXELS STUDIO</h3>
 <div align="center">
-<a href="https://github.com/ArisGuimera/Curso-Kotlin-Multiplatform" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1710072446/portafolio/Imagen_10-3-24_a_las_13.01_thwuuf.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
+<a href="https://github.com/santigimenezz1/stock-de-fotografia" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1710072446/portafolio/Imagen_10-3-24_a_las_13.01_thwuuf.jpg" width="400" alt="Curso Kotlin Multiplatform"></a>
 <p>
 <a href="https://github.com/santigimenezz1/stock-de-fotos" target="_blank">
 <img src="https://img.shields.io/badge/C%C3%93DIGO-cfaae0?style=for-the-badge&logo=github&logoColor=black">
