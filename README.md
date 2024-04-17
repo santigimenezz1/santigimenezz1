@@ -30,9 +30,9 @@
 
 <td width="50%">
                <br>
-<h3 align="center">Arquitectura MVVM</h3>
+<h3 align="center">TMDB FILMS </h3>
 <div align="center">                                       
-<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://i.imgur.com/7uCBigG.jpg" width="400" alt="Curso arquitectura MVVM"></a>
+<a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank"><img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1710075299/portafolio/Captura_de_pantalla_2024-03-10_a_las_13.28.26_m2aae2.jpg" width="400" alt="Curso arquitectura MVVM"></a>
 <br>
 <p>
 <a href="https://github.com/ArisGuimera/SimpleAndroidMVVM" target="_blank">
@@ -42,7 +42,7 @@
 <img src="https://img.shields.io/badge/-Youtube-green?style=for-the-badge&color=3fFD7f">
 </a>
 </p>
-</p>Las arquitecturas son <strong>IMPRESCINDIBLES</strong> para poder trabajar como desarrollador/a Android. En este curso, divido por ramas irás aprendiendo a implementar una arquitectura real y robusta con inyección de dependencias, clean architecture, testing y mucho más.</p>
+</p>Aplicación web que utiliza la API de The Movie Database (TMDB). La interfaz ofrece búsquedas instantáneas, detalles completos de películas, información de reparto y, para series, una vista de temporadas y episodios. Desarrollado con Next.js,  para una experiencia de usuario ágil..</p>
 </div>                                                             
 </table>                                                                                 
 </div>
