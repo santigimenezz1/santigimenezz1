@@ -1,7 +1,7 @@
 <div align="center">
 <h1 align="center">Hola, soy <a href="https://portfolio-santiago-gimenez.vercel.app">Santiago Gimenez</a> 👋</h1>
 </div>
-<img src="[https://i.imgur.com/weNbhGZ.png](https://res.cloudinary.com/dcf9eqqgt/image/upload/v1713355130/portafolio/frontend_developer_jyqyvp.png)">
+<img src="https://res.cloudinary.com/dcf9eqqgt/image/upload/v1713355130/portafolio/frontend_developer_jyqyvp.png">
 
 [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCIjEgHA1vatSR2K4rfcdNRg?style=social)](https://youtube.com/aristidevs?sub_confirmation=1)
 [![Twitch Status](https://img.shields.io/twitch/status/aristidevs?style=social)](https://www.twitch.tv/aristidevs)
